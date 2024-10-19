@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    padding-top: 5px !important;
+    background-color: #c2bdbd;
+  }
+  
+  .navbar-elements {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .navbar-elements li {
+    margin-left: 10px;
+  }
+  
+  
+  /* Questo è un selettore di un tag */
+  ul {}
